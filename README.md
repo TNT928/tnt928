@@ -4,7 +4,7 @@ Since leaving the public school system where I worked as a school bus driver, I 
 
 However, I realized I still had much to learn so I joined a bootcamp called Grand Circus in Grand Rapids, MI and learned a great deal more. Since then I have continued learning and built various projects using my new favorite framework, ReactJs. 
 
-I am always pushing myself to become more well rounded as is evident in my repositories. I follow the ABC's. Always Be Coding!
+I am always pushing myself to become more well rounded as is evident in my repositories. I follow the ABC's. Always Be Coding! Presently, I'm working on a web app called Stock Bites, a social media platform for those who love stocks and cryptocurrency. In addition to that I continue to work my way through various Udemy courses, picking up new skills to add to my arsenal. 
 
 ..................................................................................................................................................................
 
