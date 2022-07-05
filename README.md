@@ -1,4 +1,4 @@
- ### Hi there <img src = "https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width = 10px/> I'm Michael!
+
 
 Since leaving the public school system where I worked as a school bus driver, I have found myself drawn to coding. After working my way through a massive 40 hour bootcamp on Udemy I began working on building my own projects. 
 
