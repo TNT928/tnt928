@@ -1,10 +1,5 @@
 
-
-Since leaving the public school system where I worked as a school bus driver, I have found myself drawn to coding. After working my way through a massive 40 hour bootcamp on Udemy I began working on building my own projects. 
-
-However, I realized I still had much to learn so I joined a bootcamp called Grand Circus in Grand Rapids, MI and learned a great deal more. Since then I have continued learning and built various projects using my new favorite framework, ReactJs. 
-
-I am always pushing myself to become more well rounded as is evident in my repositories. I follow the ABC's. Always Be Coding! Presently, I'm working on a web app called Stock Bites, a social media platform for those who love stocks and cryptocurrency. In addition to that I continue to work my way through various Udemy courses, picking up new skills to add to my arsenal. 
+For the past 2 years I have been employed at a company called 3Nom, based out of Miami Gardens, where I work on primarily front end projects using React and NextJs. My experience with this company has given me the chance to try my hand at many different skills, each project my goal is to learn something new. My end goal is to become a full stack web developer. 
 
 ..................................................................................................................................................................
 
